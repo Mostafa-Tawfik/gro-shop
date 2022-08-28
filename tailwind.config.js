@@ -20,5 +20,11 @@ module.exports = {
       },
     },
   },
+  future: {
+    hoverOnlyWhenSupported: true,
+  },
+  variants: {
+    animation: ["motion-safe"]
+  },
   plugins: [],
 }

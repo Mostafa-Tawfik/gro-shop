@@ -6,11 +6,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        goldenBrown: '#966F33',
-        bdazzledBlue: '#335B96',
-        fieldDarb: '#665029',
-        earthYellow: '#CFA364',
-        blanchedAlmond: '#FFECCB',
+        mainClr: '#89AB0C',
+        txtClr: '#123707',
+        lightClr: '#FFFFFF',
+        darkClr: '#636363',
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

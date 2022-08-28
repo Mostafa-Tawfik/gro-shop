@@ -1,8 +1,11 @@
 import React from 'react'
+import Home from './components/Home'
 
 function GroShop() {
   return (
-    <div>GroShop</div>
+    <div className='overflow-hidden relative h-full w-full'>
+      <Home></Home>
+    </div>
   )
 }
 

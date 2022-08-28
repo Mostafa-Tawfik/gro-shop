@@ -11,7 +11,7 @@
   }
 
   body {
-    @apply bg-gradient-to-r from-white to-blanchedAlmond h-full w-full;
+    @apply bg-lightClr h-full w-full;
     font-family: 'Poppins', 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
@@ -30,7 +30,7 @@
 
 @layer components {
   .btn-primary {
-    @apply w-40 h-16 flex justify-center items-center text-2xl bg-bdazzledBlue text-white font-bold cursor-pointer py-2 px-4 rounded-lg transition hover:saturate-200 hover:-translate-y-1 hover:transition duration-300
+    @apply w-40 h-16 flex justify-center items-center text-2xl font-bold cursor-pointer py-2 px-4 rounded-lg transition hover:saturate-200 hover:-translate-y-1 hover:transition duration-300
   }
   .btn-disabled {
   @apply bg-slate-600 text-white w-40 h-16 flex justify-center items-center text-2xl font-bold py-2 px-4 rounded-lg cursor-not-allowed
@@ -38,7 +38,7 @@
 }
 
 .icon-animate {
-@apply text-bdazzledBlue bg-white duration-700 shadow-icon
+@apply text-mainClr bg-white duration-700 shadow-icon
 }
 
 .layout-margin {

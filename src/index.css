@@ -44,3 +44,7 @@
 .layout-margin {
   @apply max-w-7xl mx-auto px-4 sm:px-6 md:px-8
 }
+
+.layout-margin-tight {
+  @apply max-w-5xl mx-auto px-4 sm:px-6 md:px-8
+}

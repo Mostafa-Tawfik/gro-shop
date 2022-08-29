@@ -4,9 +4,12 @@ function About() {
   return (
     <main id='about' className='overflow-hidden relative min-h-screen w-full text-txtClr'>
 
+      <img src="../../../assets/about-vector-left.png" alt="/" className='absolute -z-50'/>
+      <img src="../../../assets/about-vector-right.png" alt="/" className='absolute right-0 bottom-0 -z-50'/>
+
       <h2 className='py-12'>About us</h2>
 
-      <div className='layout-margin flex flex-col justify-center items-center gap-12 py-12 text-left'>
+      <div className='layout-margin-tight flex flex-col justify-center items-center gap-12 py-12 text-left'>
 
         <div className='flex justify-center items-center gap-4'>
           <article className='w-1/2'>
@@ -26,17 +29,17 @@ function About() {
           <div className='w-full flex justify-start gap-4'>
 
             <div className='w-64 p-4 py-8 rounded-lg border-2 border-mainClr shadow-primary'>
-              <p className='text-center font-bold mb-4'>Good quality</p>
+              <p className='text-center text-xl font-bold mb-4'>Good quality</p>
               <p>Lorem Ipsum is simply dummy text of the printing</p>
             </div>
 
             <div className='w-64 p-4 py-8 rounded-lg border-2 border-mainClr shadow-primary'>
-              <p className='text-center font-bold mb-4'>Best Price</p>
+              <p className='text-center text-xl font-bold mb-4'>Best Price</p>
               <p>Lorem Ipsum is simply dummy text of the printing </p>
             </div>
 
             <div className='w-64 p-4 py-8 rounded-lg border-2 border-mainClr shadow-primary'>
-              <p className='text-center font-bold mb-4'>Fast delivery</p>
+              <p className='text-center text-xl font-bold mb-4'>Fast delivery</p>
               <p>Lorem Ipsum is simply dummy text of the printing</p>
             </div>
 

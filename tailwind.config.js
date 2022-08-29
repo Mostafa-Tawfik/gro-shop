@@ -16,7 +16,7 @@ module.exports = {
       },
       boxShadow: {
         primary: "0px 5px 15px rgb(0,0,0)",
-        icon: "0px 0px 0px 8px rgb(207,163,100)",
+        icon: "0px 0px 0px 10px",
       },
     },
   },

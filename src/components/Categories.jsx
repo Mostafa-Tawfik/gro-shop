@@ -2,7 +2,7 @@ import React from 'react'
 
 function Categories() {
   return (
-    <main id='categories' className='overflow-hidden relative min-h-screen w-full text-txtClr bg-[#fafcf5]'>
+    <main id='categories' className='overflow-hidden relative w-full text-txtClr bg-[#fafcf5]'>
 
       <h2 className='py-12'>Categories</h2>
 

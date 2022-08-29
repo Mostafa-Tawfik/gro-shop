@@ -19,12 +19,12 @@ function Home() {
 
             <p className='w-3/4'>You can get the best prices for your online shopping ,good quality and fast delivery</p>
 
-            <p className='text-2xl font-bold mt-12 mb-4'>Download the app now!</p>
+            <p className='text-2xl font-bold mt-12 mb-4 ml-8'>Download the app now!</p>
 
             <div className='h-fit flex flex-wrap gap-4 items-center'>
-              <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732789/Projects/GRO%20shop/iosStore_g3iq40.png" alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
+              <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779376/Projects/GRO%20shop/App_Store__iOS_-Badge-Alternative-Logo.wine_w2jxp3.png" alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
 
-              <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732788/Projects/GRO%20shop/playStore_jxzvel.png" alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
+              <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779377/Projects/GRO%20shop/Google_Play-Badge-Logo.wine_jldeou.png" alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
             </div>
           </div>
 

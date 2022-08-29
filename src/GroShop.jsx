@@ -4,6 +4,7 @@ import Categories from './components/Categories'
 import Contact from './components/Contact'
 import Home from './components/Home'
 import Testimonials from './components/Testimonials'
+import Footer from './layout/Footer'
 
 function GroShop() {
   return (
@@ -25,6 +26,8 @@ function GroShop() {
       <hr className='w-1/2 h-1 bg-mainClr mx-auto'/>
 
       <Contact></Contact>
+
+      <Footer></Footer>
     </div>
   )
 }

@@ -29,13 +29,13 @@ function Home() {
           </div>
 
           {/* hero right pane */}
-          <div className='relative w-full mt-12 sm:w-1/2 sm:min-h-[calc(100vh-70px)]'>
+          <div className='relative mt-12 w-1/2 sm:min-h-[calc(100vh-70px)]'>
             <img
-              src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732788/Projects/GRO%20shop/iPhone-logo_tccjk5.png" alt="/"
-              className='absolute top-[15%] right-20 sm:right-16 object-scale-down w-[230px] sm:w-[320px] xl:w-[406px] xl:h-[526px]'/>
+              src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661734700/Projects/GRO%20shop/phoneLogo_jgshnv.png" alt="/"
+              className='absolute top-[10%] lg:top-[15%] xl:top-[10%] right-12 sm:right-40 lg:right-48 w-[140px] sm:w-[190px] xl:w-[300px] -rotate-[25.45deg]'/>
             <img
-              src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732789/Projects/GRO%20shop/iPhone-preview_ch3wmj.png" alt="/"
-              className='absolute top-[20%] xl:top-[25%] right-6 sm:right-0 object-scale-down w-[150px] sm:w-[200px] xl:w-[235px] xl:h-[490px]'/>
+              src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661734417/Projects/GRO%20shop/cat_znrdnv.png" alt="/"
+              className='absolute top-[20%] -right-12 sm:right-8 xl:right-0 w-[150px] sm:w-[200px] xl:w-[300px]'/>
           </div>
         </div>
       </div>

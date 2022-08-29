@@ -12,8 +12,8 @@ function About() {
 
       <div className='layout-margin-tight flex flex-col justify-center items-center gap-12 py-12 text-left'>
 
-        <div className='flex justify-center items-center gap-4'>
-          <article className='w-1/2'>
+        <div className='flex flex-col-reverse sm:flex-row justify-center items-center gap-4'>
+          <article className='w-[95%] sm:w-1/2'>
             <h3>We are a full service</h3>
             <p className='mt-4 text-xl'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
           </article>
@@ -27,7 +27,7 @@ function About() {
         <div className='w-full flex flex-col justify-center items-start gap-12'>
           <h3 className='text-left'>What we do?</h3>
 
-          <div className='w-full flex justify-start gap-4'>
+          <div className='w-full flex flex-col items-center sm:flex-row justify-start gap-4'>
 
             <div className='w-64 p-4 py-8 rounded-lg border-2 border-mainClr shadow-primary'>
               <p className='text-center text-xl font-bold mb-4'>Good quality</p>

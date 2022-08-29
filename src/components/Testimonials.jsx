@@ -9,7 +9,7 @@ function Testimonials() {
 
       <h2 className='py-12'>Testimonials</h2>
 
-      <div className='layout-margin-tight flex justify-center items-center gap-12 py-12 text-left'>
+      <div className='layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left'>
 
         <TestimonalCard
           name='Sameh Ahmed'

@@ -2,9 +2,9 @@ import React from 'react'
 
 function Footer() {
   return (
-    <main id='contact' className='overflow-hidden relative h-[370px] w-full bg-mainClr text-white'>
+    <main id='contact' className='overflow-hidden relative h-full w-full bg-mainClr text-white'>
 
-      <div className='layout-margin relative h-[250px] flex justify-around items-start gap-12 py-12 text-left'>
+      <div className='layout-margin relative h-full flex flex-col sm:flex-row justify-around items-start gap-12 py-12 text-left'>
 
         <div>
           <h4 className='mb-4'>Reach us</h4>
@@ -47,24 +47,24 @@ function Footer() {
           <h4 className='mb-4'>Download the app Now!</h4>
 
           <div className='h-fit flex flex-wrap gap-4 items-center'>
-            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779376/Projects/GRO%20shop/App_Store__iOS_-Badge-Alternative-Logo.wine_w2jxp3.png" alt="/" className='w-[160px] h-[50px] cursor-pointer'/>
+            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779376/Projects/GRO%20shop/App_Store__iOS_-Badge-Alternative-Logo.wine_w2jxp3.png" alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px] cursor-pointer'/>
 
-            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779377/Projects/GRO%20shop/Google_Play-Badge-Logo.wine_jldeou.png" alt="/" className='w-[160px] h-[50px] cursor-pointer'/>
+            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779377/Projects/GRO%20shop/Google_Play-Badge-Logo.wine_jldeou.png" alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px]  cursor-pointer'/>
           </div>
         </div>
 
       </div>
 
-      <div className='h-[120px] bg-gradient-to-r from-txtClr to-txtClr/50 flex flex-col justify-center items-center gap-2'>
+      <div className='h-full bg-gradient-to-r from-txtClr to-txtClr/50 flex flex-col justify-center items-center gap-2 py-8'>
 
-        <div className='w-fit flex justify-center gap-4'>
+        <div className='w-fit flex flex-col sm:flex-row justify-center gap-4'>
 
           <a
             href="https://www.linkedin.com/in/rahma-awd-b012b31aa/"
             target="blank"
             referrerpolicy="noreferrer"
             rel="noopener"
-            class="w-fit h-fit mx-auto flex justify-center items-center gap-2">
+            class="w-fit h-fit sm:mx-auto flex justify-center items-center gap-2">
             <img
               class='w-[45px] h-[45px] rounded-lg'
               alt='myLogo'

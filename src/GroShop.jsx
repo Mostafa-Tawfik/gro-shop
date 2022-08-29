@@ -1,5 +1,6 @@
 import React from 'react'
 import About from './components/About'
+import Categories from './components/Categories'
 import Home from './components/Home'
 
 function GroShop() {
@@ -13,6 +14,9 @@ function GroShop() {
 
       <hr className='w-1/2 h-1 bg-mainClr mx-auto'/>
 
+      <Categories></Categories>
+
+      <hr className='w-1/2 h-1 bg-mainClr mx-auto'/>
       
     </div>
   )

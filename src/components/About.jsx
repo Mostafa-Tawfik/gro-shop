@@ -4,8 +4,9 @@ function About() {
   return (
     <main id='about' className='overflow-hidden relative min-h-screen w-full text-txtClr'>
 
-      <img src="../../../assets/about-vector-left.png" alt="/" className='absolute -z-50'/>
-      <img src="../../../assets/about-vector-right.png" alt="/" className='absolute right-0 bottom-0 -z-50'/>
+      <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/about-vector-left_mjd98b.png" alt="/" className='absolute -z-50'/>
+
+      <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/about-vector-right_nabmjh.png" alt="/" className='absolute right-0 bottom-0 -z-50'/>
 
       <h2 className='py-12'>About us</h2>
 
@@ -18,8 +19,8 @@ function About() {
           </article>
 
           <div className='relative w-1/2 flex justify-center items-center'>
-            <img src="../../../assets/union.png" alt="/" className='absolute top-8 -z-10'/>
-            <img src="../../../assets/logo.png" alt="/" />
+            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/Union_rdhfla.png" alt="/" className='absolute top-8 -z-10'/>
+            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/logo_byqs3o.png" alt="/" />
           </div>
         </div>
 

@@ -1,70 +1,68 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GRO SHOP
 
-## Available Scripts
+A React landing page for grocery mobile app.
 
-In the project directory, you can run:
+You can visit the live Demo on https://gro-shop-60090.web.app/.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Client:**
 
-### `npm test`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Developers & Designers
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [@Mostafa-Tawfik](https://www.github.com/Mostafa-Tawfik) | Frontend Developer
+- [@Rahma-Awd](https://www.linkedin.com/in/rahma-awd-b012b31aa/) | UX/UI Designer
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Color Palette
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Apple Green | ![#89AB0C](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661957752/Projects/GRO%20shop/Color%20palette/Apple_Green_fvybvl.png) #89AB0C |
+| Forest Green Traditional | ![#123707](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661957752/Projects/GRO%20shop/Color%20palette/Forest_Green_Traditional_hljt5q.png) #123707 |
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Demo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://gro-shop-60090.web.app/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Alt Text](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661959379/Projects/GRO%20shop/Behance/gro-shop-OG_tqbahl.png?raw=true 'Project Preview')
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Run Locally
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone the project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  git clone https://github.com/Mostafa-Tawfik/gro-shop.git
+```
 
-### Code Splitting
+Go to the project directory
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+  cd gro-shop
+```
 
-### Analyzing the Bundle Size
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+  npm install
+```
 
-### Making a Progressive Web App
+Start the server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm start
+```
 
-### Advanced Configuration
+![Logo](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/logo_byqs3o.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For support, www.mostafatawfik.com/.

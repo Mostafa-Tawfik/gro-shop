@@ -1,7 +1,7 @@
 
 # GRO SHOP
 
-A React landing page for grocery mobile app.
+A React landing page for a grocery mobile app.
 
 You can visit the live Demo on https://gro-shop-60090.web.app/.
 

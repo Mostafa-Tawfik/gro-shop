@@ -1,12 +1,16 @@
 import React from 'react'
+import MobNav from '../layout/MobNav'
 import Navbar from '../layout/Navbar'
 
 function Home() {
   return (
     <main className='overflow-hidden relative h-full w-full'>
+
+      <MobNav></MobNav>
+
       <div className='layout-margin min-h-screen text-white'>
 
-        <div className='absolute -top-[30%] 2xl:-top-[45%] -left-16 2xl:-left-32 h-full w-[calc(100vw*1.2)] bg-mainClr rounded-[182px] -rotate-[23.26deg] -z-50'></div>
+        <div className='absolute -top-[30%] 2xl:-top-[45%] -left-16 2xl:-left-32 h-full w-[calc(100vw*1.25)] sm:w-[calc(100vw*1.2)] bg-mainClr rounded-[182px] -rotate-[23.26deg] -z-50'></div>
 
         <Navbar></Navbar>
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='flex items-center justify-around h-[70px]'>
+    <div className='hidden sm:flex items-center justify-around h-[70px]'>
       <h1 className='text-3xl font-extrabold'>GRO SHOP</h1>
 
       <div className='flex gap-2 lg:gap-4'>

@@ -62,19 +62,19 @@ function Footer() {
           <a
             href="https://www.linkedin.com/in/rahma-awd-b012b31aa/"
             target="blank"
-            referrerpolicy="noreferrer"
+            referrerPolicy="noreferrer"
             rel="noopener"
-            class="w-fit h-fit sm:mx-auto flex justify-center items-center gap-2">
+            className="w-fit h-fit sm:mx-auto flex justify-center items-center gap-2">
             <img
-              class='w-[45px] h-[45px] rounded-lg'
+              className='w-[45px] h-[45px] rounded-lg'
               alt='myLogo'
               src='https://res.cloudinary.com/do1rqqi7v/image/upload/v1661781303/Projects/GRO%20shop/RahmaAwd_hswdhw.jpg'/>
 
             <div className='flex flex-col justify-start items-start'>
-              <p class='font-["Mrs_Saint_Delafield"]'>
+              <p className='font-["Mrs_Saint_Delafield"]'>
                 Rahma Awd
               </p>
-              <p class='font-["Redressed"] -mt-2'>
+              <p className='font-["Redressed"] -mt-2'>
                 UX/UI Designer
               </p>
             </div>
@@ -83,20 +83,20 @@ function Footer() {
           <a
             href="https://www.mostafatawfik.com/"
             target="blank"
-            referrerpolicy="noreferrer"
+            referrerPolicy="noreferrer"
             rel="noopener"
-            class="w-fit h-fit mx-auto flex justify-center items-center gap-2">
+            className="w-fit h-fit mx-auto flex justify-center items-center gap-2">
             <img
-              class='w-[45px] h-[45px] rounded-lg'
+              className='w-[45px] h-[45px] rounded-lg'
               alt='myLogo'
               src='https://www.mostafatawfik.com/images/logo.jpg'/>
 
             <div className='flex flex-col justify-start items-start'>
-              <p class='font-["Mrs_Saint_Delafield"]'>
+              <p className='font-["Mrs_Saint_Delafield"]'>
                 Mostafa Tawfik
               </p>
 
-              <p class='font-["Redressed"] -mt-2'>
+              <p className='font-["Redressed"] -mt-2'>
                 Front End Deveploper
               </p>
             </div>
@@ -105,7 +105,7 @@ function Footer() {
 
         </div>
 
-        <p class='font-[Redressed]'>
+        <p className='font-[Redressed]'>
           all rights reserved || Copyright © 2022
         </p>
 

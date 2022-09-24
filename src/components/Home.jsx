@@ -4,7 +4,7 @@ import Navbar from '../layout/Navbar'
 
 function Home() {
   return (
-    <main className='overflow-hidden relative h-full w-full'>
+    <main id='home' className='overflow-hidden relative h-full w-full'>
 
       <MobNav></MobNav>
 
